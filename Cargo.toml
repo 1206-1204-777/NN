@@ -1,7 +1,14 @@
 [package]
 name = "nn"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 
 [dependencies]
-burn = { version = "0.20.1", features = ["cuda"]}
+bevy = { version = "0.18.1", default-features = false, features = ["bevy_winit", "bevy_render", "bevy_core_pipeline", "bevy_sprite", "x11"] }
+bevy_egui = "0.39.1"
+burn = { version = "0.20.1", features = ["ndarray", "train"] }
+burn-cuda = "0.20.1"
+burn-ndarray = "0.20.1"
+notify = "8.2.0"
+rayon = "1.11.0"
+walkdir = "2.5.0"
