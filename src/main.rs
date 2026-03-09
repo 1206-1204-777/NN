@@ -1,7 +1,7 @@
-use nn::inspection::{gpu::execute};
-use burn_cuda::{Cuda, CudaDevice};
+use bevy::{DefaultPlugins, app::{App, Startup}};
+use nn::inspection::{gpu::setup};
+use burn_cuda::{Cuda};
 fn main() {
     type Backend = Cuda;
-    let device = CudaDevice::default();
-    execute::<Backend>(&device);
+    App::new().add_plugins(DefaultPlugins).add_systems(Startup, setup::<Backend>).run();
 }
