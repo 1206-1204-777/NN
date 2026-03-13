@@ -9,6 +9,7 @@ bevy_egui = "0.39.1"
 burn = { version = "0.20.1", features = ["ndarray", "train"] }
 burn-cuda = "0.20.1"
 burn-ndarray = "0.20.1"
+chrono = { version = "0.4.44", features = ["clock"] }
 notify = "8.2.0"
 rayon = "1.11.0"
 walkdir = "2.5.0"
