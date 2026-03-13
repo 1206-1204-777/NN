@@ -15,9 +15,11 @@ pub struct Entity{
 impl Entity {
     pub fn handle(){
         type Backend = Cuda;
+        let now = Local::now();
+        Self::logger("Bevy_boot staar_time".to_string(), now.to_string());
         App::new().add_plugins(DefaultPlugins).add_systems(Startup, setup::<Backend>).run();
         let now = Local::now();
-        Self::logger("Bevy boot time".to_string(), now.to_string());
+        Self::logger("Bevy_boot end_time".to_string(), now.to_string());
        
     }
 }
