@@ -1,0 +1,8 @@
+rust burn ndarray tensor gpu compute
+rust bevy entity component system
+tensor matrix vector tensor ndarray
+walkdir notify chrono serde json
+rust is fast rust is safe
+compute gpu power tensor math
+walkdir scan file path list
+burn ndarray neural network model

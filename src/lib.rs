@@ -1,12 +1,24 @@
 use std::fs::OpenOptions;
 use std::io::Write;
 use bevy::ecs::component::Component;
+use bevy::utils::HashMap;
 use bevy::{DefaultPlugins, app::{App, Startup}};
 use burn_cuda::{Cuda};
 use crate::inspection::gpu::setup;
 use chrono::Local;
+use serde::Serialize;
 
+pub mod mapping;
 pub mod inspection;
+
+#[derive(Serialize)]
+#[derive(Debug)]
+pub struct OriginalTensor{
+    pub map: HashMap<String, u32>,
+    pub data: Vec<u32>,
+    pub frequency: Vec<u32>
+}
+
 #[derive(Component)]
 pub struct Entity{
     pub math:u32

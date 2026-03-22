@@ -1,14 +1,15 @@
     use std::{fs::OpenOptions, path::Path, thread};
     use std::io::Write;
-    use nn::Entity;
-    use rayon::iter::{IntoParallelRefMutIterator, ParallelIterator};
+    use nn::{Entity};
+    use nn::mapping::create_map;
     use std::sync::mpsc::channel;
     use notify::{RecursiveMode, Watcher};
     fn main() {
+        dotenvy::dotenv().ok();
         let (x, y) = channel();
         
-        let mut watcher = notify::recommended_watcher(x).expect("読み込みに失敗");
-        let _ = watcher.watch(Path::new("logs.txt"), RecursiveMode::Recursive).expect("msg");
+        let mut watcher1 = notify::recommended_watcher(x).expect("読み込みに失敗");
+        watcher1.watch(Path::new("logs.txt"), RecursiveMode::Recursive).expect("msg");
         
         thread::spawn(move || {let mut files = OpenOptions::new()
         .create(true)
@@ -16,10 +17,9 @@
         .open("run_logs.txt")
         .expect("ファイルに書き込めませんでした。");
         for i in y {let _ = writeln!(files, "{:?}", i);println!("{:?}",i)}});
-        
+
+        let files = "datas/input.txt";
+        let result = create_map(files);
+        println!("{:?}", result);
         Entity::handle();
-        
-        thread::spawn(||{let mut v = vec![10, 20, 30];
-        v.par_iter_mut().for_each(|x| *x *= 2); let sum: i32 = v.iter().sum();println!("{}", sum);});
-        
     }
