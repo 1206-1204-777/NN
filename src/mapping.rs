@@ -2,8 +2,7 @@ use std::{fs::{File, read_to_string}, io::BufWriter};
 use bevy::utils::hashbrown::HashMap;
 use chrono;
 use serde_json::to_writer_pretty;
-use crate::OriginalTensor;
-
+use crate::{OriginalTensor};
 
 pub fn create_map(file: &str) -> Result<(), String>{
     let file_to_word = load_and_parse(file)?;
@@ -59,4 +58,3 @@ fn write_json(tensor: &OriginalTensor) -> Result<(), String>{
     }
     
 }
-

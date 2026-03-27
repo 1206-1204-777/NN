@@ -8,6 +8,7 @@ use crate::inspection::gpu::setup;
 use chrono::Local;
 use serde::Serialize;
 
+pub mod path_checker;
 pub mod mapping;
 pub mod inspection;
 
@@ -23,6 +24,13 @@ pub struct OriginalTensor{
 pub struct Entity{
     pub math:u32
 }
+
+#[derive(Debug)]
+pub struct FilePathMemory{
+    pub paths: Vec<String>
+}
+
+impl OriginalLogger for FilePathMemory {}
 
 impl Entity {
     pub fn handle(){

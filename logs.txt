@@ -90,3 +90,157 @@ Bevy_boot staar_time:2026-03-20 21:05:51.096947291 +09:00
 Bevy_boot end_time:2026-03-20 21:05:53.661289649 +09:00
 Bevy_boot staar_time:2026-03-20 21:24:22.179572358 +09:00
 Bevy_boot end_time:2026-03-20 21:24:24.908693322 +09:00
+Bevy_boot staar_time:2026-03-23 06:45:38.307372783 +09:00
+Bevy_boot end_time:2026-03-23 06:48:03.078322244 +09:00
+Bevy_boot staar_time:2026-03-23 06:58:25.337874877 +09:00
+Bevy_boot end_time:2026-03-23 06:58:28.221128813 +09:00
+Bevy_boot staar_time:2026-03-23 06:58:53.739287423 +09:00
+Bevy_boot end_time:2026-03-23 06:59:08.425349975 +09:00
+Bevy_boot staar_time:2026-03-23 06:59:56.818453869 +09:00
+Bevy_boot end_time:2026-03-23 07:00:32.390410209 +09:00
+Bevy_boot staar_time:2026-03-23 07:19:36.704710541 +09:00
+Bevy_boot end_time:2026-03-23 07:19:42.854039943 +09:00
+Bevy_boot staar_time:2026-03-23 07:20:00.502911185 +09:00
+Bevy_boot end_time:2026-03-23 07:21:07.274867529 +09:00
+Bevy_boot staar_time:2026-03-24 14:40:35.227652958 +09:00
+Bevy_boot end_time:2026-03-24 14:40:47.089018291 +09:00
+Bevy_boot staar_time:2026-03-24 14:41:18.979724368 +09:00
+Bevy_boot end_time:2026-03-24 14:41:23.393298324 +09:00
+Bevy_boot staar_time:2026-03-24 14:52:37.904561413 +09:00
+Bevy_boot end_time:2026-03-24 14:52:41.674022943 +09:00
+Bevy_boot staar_time:2026-03-24 14:53:11.298035587 +09:00
+Bevy_boot end_time:2026-03-24 14:53:17.090744182 +09:00
+outputs/2026_05.json outputs/2026_06.json:2026-03-24 15:02:37.943032837 +09:00
+Bevy_boot staar_time:2026-03-24 15:02:37.945967499 +09:00
+Bevy_boot end_time:2026-03-24 15:02:40.674020569 +09:00
+append_path start: outputs/2026_05.json outputs/2026_06.json:2026-03-24 15:07:40.950488154 +09:00
+Bevy_boot staar_time:2026-03-24 15:07:40.951218541 +09:00
+Bevy_boot end_time:2026-03-24 15:07:53.374143580 +09:00
+write_path start: outputs/2026_05.json outputs/2026_06.json:2026-03-24 15:10:54.189647432 +09:00
+write_path end: outputs/2026_05.json outputs/2026_06.json:2026-03-24 15:10:54.189794701 +09:00
+Bevy_boot staar_time:2026-03-24 15:10:54.189901464 +09:00
+Bevy_boot end_time:2026-03-24 15:10:58.338454774 +09:00
+write_path start: outputs/2026_05.json outputs/2026_06.json:2026-03-24 23:12:02.233618826 +09:00
+write_path end: outputs/2026_05.json outputs/2026_06.json:2026-03-24 23:12:02.233683188 +09:00
+append_path start: outputs/2026_07.json outputs/2026_08.json:2026-03-24 23:12:02.233737050 +09:00
+append_path end: outputs/2026_07.json outputs/2026_08.json:2026-03-24 23:12:02.233771576 +09:00
+Bevy_boot staar_time:2026-03-24 23:12:02.233791754 +09:00
+Bevy_boot end_time:2026-03-24 23:12:06.844152269 +09:00
+write_path start: outputs/2026_05.json outputs/2026_06.json:2026-03-24 23:33:30.112436853 +09:00
+write_path end: outputs/2026_05.json outputs/2026_06.json:2026-03-24 23:33:30.112548595 +09:00
+append_path start: outputs/2026_07.json outputs/2026_08.json:2026-03-24 23:33:30.112599211 +09:00
+append_path end: outputs/2026_07.json outputs/2026_08.json:2026-03-24 23:33:30.112639899 +09:00
+Bevy_boot staar_time:2026-03-24 23:33:30.112661690 +09:00
+Bevy_boot end_time:2026-03-24 23:33:33.190336453 +09:00
+write_path start: outputs/2026_05.json outputs/2026_06.json:2026-03-24 23:34:25.562092107 +09:00
+write_path end: outputs/2026_05.json outputs/2026_06.json:2026-03-24 23:34:25.562164505 +09:00
+append_path start: outputs/2026_07.json outputs/2026_08.json:2026-03-24 23:34:25.562208989 +09:00
+append_path end: outputs/2026_07.json outputs/2026_08.json:2026-03-24 23:34:25.562246490 +09:00
+Bevy_boot staar_time:2026-03-24 23:34:25.562263953 +09:00
+Bevy_boot end_time:2026-03-24 23:34:28.523208330 +09:00
+write_path start: outputs/2026_05.json outputs/2026_06.json:2026-03-24 23:36:27.555953105 +09:00
+write_path end: outputs/2026_05.json outputs/2026_06.json:2026-03-24 23:36:27.556054969 +09:00
+append_path start: outputs/2026_07.json outputs/2026_08.json:2026-03-24 23:36:27.556121435 +09:00
+append_path end: outputs/2026_07.json outputs/2026_08.json:2026-03-24 23:36:27.556169717 +09:00
+Bevy_boot staar_time:2026-03-24 23:36:27.556216435 +09:00
+Bevy_boot end_time:2026-03-24 23:36:30.423765972 +09:00
+write_path start: outputs/2026_05.json outputs/2026_06.json:2026-03-24 23:37:24.948586471 +09:00
+write_path end: outputs/2026_05.json outputs/2026_06.json:2026-03-24 23:37:24.948671652 +09:00
+append_path start: outputs/2026_07.json outputs/2026_08.json:2026-03-24 23:37:24.948731015 +09:00
+append_path end: outputs/2026_07.json outputs/2026_08.json:2026-03-24 23:37:24.948770310 +09:00
+Bevy_boot staar_time:2026-03-24 23:37:24.948810957 +09:00
+Bevy_boot end_time:2026-03-24 23:37:28.140133962 +09:00
+write_path start: outputs/2026_05.json outputs/2026_06.json:2026-03-24 23:37:56.595971148 +09:00
+write_path end: outputs/2026_05.json outputs/2026_06.json:2026-03-24 23:37:56.596042073 +09:00
+append_path start: outputs/2026_07.json outputs/2026_08.json:2026-03-24 23:37:56.596088030 +09:00
+append_path end: outputs/2026_07.json outputs/2026_08.json:2026-03-24 23:37:56.596119811 +09:00
+Bevy_boot staar_time:2026-03-24 23:37:56.596149918 +09:00
+Bevy_boot end_time:2026-03-24 23:37:59.307069676 +09:00
+write_path start: outputs/2026_05.json outputs/2026_06.json:2026-03-24 23:47:10.682612409 +09:00
+write_path end: outputs/2026_05.json outputs/2026_06.json:2026-03-24 23:47:10.684846312 +09:00
+append_path start: outputs/2026_07.json outputs/2026_08.json:2026-03-24 23:47:10.684903009 +09:00
+append_path end: outputs/2026_07.json outputs/2026_08.json:2026-03-24 23:47:10.685146572 +09:00
+Bevy_boot staar_time:2026-03-24 23:47:10.686531412 +09:00
+Bevy_boot end_time:2026-03-24 23:47:13.840849091 +09:00
+write_path start: outputs/2026_05.json outputs/2026_06.json:2026-03-24 23:59:36.911504969 +09:00
+write_path end: outputs/2026_05.json outputs/2026_06.json:2026-03-24 23:59:36.911574 +09:00
+append_path start: outputs/2026_07.json outputs/2026_08.json:2026-03-24 23:59:36.911619987 +09:00
+append_path end: outputs/2026_07.json outputs/2026_08.json:2026-03-24 23:59:36.911707213 +09:00
+Bevy_boot staar_time:2026-03-24 23:59:36.911763520 +09:00
+Bevy_boot end_time:2026-03-24 23:59:39.407741286 +09:00
+write_path start: outputs/2026_05.json outputs/2026_06.json:2026-03-25 00:00:08.340275209 +09:00
+write_path end: outputs/2026_05.json outputs/2026_06.json:2026-03-25 00:00:08.340647246 +09:00
+append_path start: outputs/2026_07.json outputs/2026_08.json:2026-03-25 00:00:08.340708382 +09:00
+append_path end: outputs/2026_07.json outputs/2026_08.json:2026-03-25 00:00:08.340780849 +09:00
+Bevy_boot staar_time:2026-03-25 00:00:08.340841645 +09:00
+Bevy_boot end_time:2026-03-25 00:00:10.445045919 +09:00
+write_path start: outputs/2026_05.json outputs/2026_06.json:2026-03-25 00:02:39.300623815 +09:00
+write_path end: outputs/2026_05.json outputs/2026_06.json:2026-03-25 00:02:39.300695591 +09:00
+append_path start: outputs/2026_07.json outputs/2026_08.json:2026-03-25 00:02:39.300720759 +09:00
+append_path end: outputs/2026_07.json outputs/2026_08.json:2026-03-25 00:02:39.300746147 +09:00
+Bevy_boot staar_time:2026-03-25 00:02:39.300775633 +09:00
+Bevy_boot end_time:2026-03-25 00:02:42.490814322 +09:00
+write_path start: outputs/2026_05.json outputs/2026_06.json:2026-03-25 02:53:07.492333111 +09:00
+write_path end: outputs/2026_05.json outputs/2026_06.json:2026-03-25 02:53:07.492460623 +09:00
+append_path start: outputs/2026_07.json outputs/2026_08.json:2026-03-25 02:53:07.492534133 +09:00
+append_path end: outputs/2026_07.json outputs/2026_08.json:2026-03-25 02:53:07.492595249 +09:00
+Bevy_boot staar_time:2026-03-25 02:53:07.492645153 +09:00
+Bevy_boot end_time:2026-03-25 02:53:10.625632335 +09:00
+write_path start: outputs/2026_05.json outputs/2026_06.json:2026-03-25 02:53:50.199698746 +09:00
+write_path end: outputs/2026_05.json outputs/2026_06.json:2026-03-25 02:53:50.199766214 +09:00
+append_path start: outputs/2026_07.json outputs/2026_08.json:2026-03-25 02:53:50.199807893 +09:00
+append_path end: outputs/2026_07.json outputs/2026_08.json:2026-03-25 02:53:50.199841527 +09:00
+Bevy_boot staar_time:2026-03-25 02:53:50.199872957 +09:00
+Bevy_boot end_time:2026-03-25 02:53:53.108680530 +09:00
+write_path start: outputs/2026_05.json outputs/2026_06.json:2026-03-25 03:03:52.412173257 +09:00
+write_path end: outputs/2026_05.json outputs/2026_06.json:2026-03-25 03:03:52.412236437 +09:00
+append_path start: outputs/2026_07.json outputs/2026_08.json:2026-03-25 03:03:52.412276092 +09:00
+append_path end: outputs/2026_07.json outputs/2026_08.json:2026-03-25 03:03:52.412306269 +09:00
+Bevy_boot staar_time:2026-03-25 03:03:52.412377575 +09:00
+Bevy_boot end_time:2026-03-25 03:03:55.208617619 +09:00
+write_path start: outputs/2026_05.json outputs/2026_06.json:2026-03-25 03:11:49.583848233 +09:00
+write_path end: outputs/2026_05.json outputs/2026_06.json:2026-03-25 03:11:49.584233213 +09:00
+append_path start: outputs/2026_07.json outputs/2026_08.json:2026-03-25 03:11:49.584304880 +09:00
+append_path end: outputs/2026_07.json outputs/2026_08.json:2026-03-25 03:11:49.584355826 +09:00
+Bevy_boot staar_time:2026-03-25 03:11:49.584416742 +09:00
+Bevy_boot end_time:2026-03-25 03:11:54.880193331 +09:00
+write_path start: outputs/2026_05.json outputs/2026_06.json:2026-03-25 18:28:44.830498727 +09:00
+write_path end: outputs/2026_05.json outputs/2026_06.json:2026-03-25 18:28:44.830683749 +09:00
+append_path start: outputs/2026_07.json outputs/2026_08.json:2026-03-25 18:28:44.830744654 +09:00
+append_path end: outputs/2026_07.json outputs/2026_08.json:2026-03-25 18:28:44.830808736 +09:00
+Bevy_boot staar_time:2026-03-25 18:28:44.830867568 +09:00
+Bevy_boot end_time:2026-03-25 18:28:47.473056399 +09:00
+write_path start: outputs/2026_05.json outputs/2026_06.json:2026-03-25 18:33:25.722003950 +09:00
+write_path end: outputs/2026_05.json outputs/2026_06.json:2026-03-25 18:33:25.722112436 +09:00
+append_path start: outputs/2026_07.json outputs/2026_08.json:2026-03-25 18:33:25.722172440 +09:00
+append_path end: outputs/2026_07.json outputs/2026_08.json:2026-03-25 18:33:25.722227755 +09:00
+write_path start: outputs/2026_05.json outputs/2026_06.json:2026-03-25 18:33:32.783881057 +09:00
+write_path end: outputs/2026_05.json outputs/2026_06.json:2026-03-25 18:33:32.783939027 +09:00
+append_path start: outputs/2026_07.json outputs/2026_08.json:2026-03-25 18:33:32.783976939 +09:00
+append_path end: outputs/2026_07.json outputs/2026_08.json:2026-03-25 18:33:32.784005453 +09:00
+write_path start: outputs/2026_05.json outputs/2026_06.json:2026-03-25 18:34:33.158576466 +09:00
+write_path end: outputs/2026_05.json outputs/2026_06.json:2026-03-25 18:34:33.158663502 +09:00
+append_path start: outputs/2026_07.json outputs/2026_08.json:2026-03-25 18:34:33.158726521 +09:00
+append_path end: outputs/2026_07.json outputs/2026_08.json:2026-03-25 18:34:33.158764323 +09:00
+write_path start: outputs/2026_05.json outputs/2026_06.json:2026-03-25 18:35:38.065106859 +09:00
+write_path end: outputs/2026_05.json outputs/2026_06.json:2026-03-25 18:35:38.065233891 +09:00
+append_path start: outputs/2026_07.json outputs/2026_08.json:2026-03-25 18:35:38.065291991 +09:00
+append_path end: outputs/2026_07.json outputs/2026_08.json:2026-03-25 18:35:38.065329332 +09:00
+Bevy_boot staar_time:2026-03-25 18:35:38.065355642 +09:00
+Bevy_boot end_time:2026-03-25 18:35:41.302336803 +09:00
+write_path start: outputs/2026_05.json outputs/2026_06.json:2026-03-25 18:36:28.175893384 +09:00
+write_path end: outputs/2026_05.json outputs/2026_06.json:2026-03-25 18:36:28.175991481 +09:00
+append_path start: outputs/2026_07.json outputs/2026_08.json:2026-03-25 18:36:28.176053679 +09:00
+append_path end: outputs/2026_07.json outputs/2026_08.json:2026-03-25 18:36:28.176097983 +09:00
+write_path start: outputs/2026_05.json outputs/2026_06.json:2026-03-25 18:54:39.213859900 +09:00
+write_path end: outputs/2026_05.json outputs/2026_06.json:2026-03-25 18:54:39.213951534 +09:00
+append_path start: outputs/2026_07.json outputs/2026_08.json:2026-03-25 18:54:39.213998473 +09:00
+append_path end: outputs/2026_07.json outputs/2026_08.json:2026-03-25 18:54:39.214036415 +09:00
+Bevy_boot staar_time:2026-03-25 18:54:39.214082904 +09:00
+Bevy_boot end_time:2026-03-25 18:54:41.853110812 +09:00
+write_path start: outputs/2026_05.json outputs/2026_06.json:2026-03-25 19:01:09.248119390 +09:00
+write_path end: outputs/2026_05.json outputs/2026_06.json:2026-03-25 19:01:09.248260889 +09:00
+append_path start: outputs/2026_07.json outputs/2026_08.json:2026-03-25 19:01:09.248316204 +09:00
+append_path end: outputs/2026_07.json outputs/2026_08.json:2026-03-25 19:01:09.248352813 +09:00
+Bevy_boot staar_time:2026-03-25 19:01:09.248423227 +09:00
+Bevy_boot end_time:2026-03-25 19:01:11.900406067 +09:00
