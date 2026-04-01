@@ -1,5 +1,6 @@
 use std::{fs::OpenOptions, path::Path, thread};
 use std::io::Write;
+use nn::path_to_tensor::walk_dir;
 use nn::{Entity};
 use nn::mapping::create_map;
 use std::sync::mpsc::channel;
@@ -27,5 +28,7 @@ fn main() {
     let _ = write_path("outputs/2026_05.json outputs/2026_06.json".to_string());
     let _ = append_path("outputs/2026_07.json outputs/2026_08.json".to_string());
     let _ = read_path(paths.unwrap());
+
+    let _ = walk_dir("TRAIN_DATA_PATH", "paths.txt");
     Entity::handle();
 }
