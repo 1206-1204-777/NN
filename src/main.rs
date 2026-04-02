@@ -1,11 +1,9 @@
 use std::{fs::OpenOptions, path::Path, thread};
 use std::io::Write;
-use nn::path_to_tensor::walk_dir;
 use nn::{Entity};
-use nn::mapping::create_map;
 use std::sync::mpsc::channel;
 use notify::{RecursiveMode, Watcher};
-use nn::path_checker::{append_path, read_path, write_path,path_to_string};
+use nn::maps::{mapping::*, path_checker::*, path_to_tensor::*};
 fn main() {
     dotenvy::dotenv().ok();
     let (x, y) = channel();
